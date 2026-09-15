@@ -68,7 +68,10 @@ The final DataFrame is saved as:
 
 `data/books_cleaned.csv`
 
+</> Markdown
 ## Example Output
+
+![Sample scraper output](images/sample-output.png)
 
 | Title | Price_GBP | Review | Availability | Stock_Amount |
 |---|---:|---:|---|---:|
