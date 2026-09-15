@@ -71,7 +71,7 @@ The final DataFrame is saved as:
 </> Markdown
 ## Example Output
 
-![Sample scraper output](images/sample-output.png)
+![Sample scraper output](images/sample-output.png.png)
 
 | Title | Price_GBP | Review | Availability | Stock_Amount |
 |---|---:|---:|---|---:|
